@@ -13,7 +13,5 @@ The PID method is used to decompose the total information that miRNAs and RBPs p
 ## Results  
 The analysis reveals that miRNAs and RBPs often exhibit synergistic regulatory effects, working together to inhibit the expression of target mRNAs. The results suggest that these interactions play a significant role in gene expression regulation at the post-transcriptional level, particularly in cancer.
 
-## License  
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 

@@ -319,3 +319,4 @@ combined_plot <- (plot_list$BRCA_sp1 + plot_list$BRCA_sp2 + plot_list$BRCA_sp3) 
 
 # Save the combined plot as a PDF file
 ggsave("./plotoutputs/Scatter_Plots2.pdf", plot = combined_plot, width = 10, height = 10)
+

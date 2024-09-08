@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+//exit
 // Parse each line of the file and return a vector containing the fields
 vector<string> parse_line(const string& line) {
     stringstream ss(line);
